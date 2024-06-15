@@ -7,6 +7,14 @@ blocks2stacks::blocks2stacks(QWidget *parent)
     , ui(new Ui::blocks2stacks)
 {
     ui->setupUi(this);
+
+    // Disable maximizing
+    setWindowFlags(Qt::Window | Qt::WindowMinimizeButtonHint | Qt::WindowCloseButtonHint);
+    setFixedSize(size());
+
+    connect(ui->blocksSpinBox_2, SIGNAL(valueChanged(int)), this, SLOT(on_blocksSpinBox_2_valueChanged(int)));
+    connect(ui->stacksSpinBox, SIGNAL(valueChanged(int)), this, SLOT(on_stacksSpinBox_valueChanged(int)));
+    connect(ui->blocksSpinBox, SIGNAL(valueChanged(int)), this, SLOT(on_blocksSpinBox_valueChanged(int)));
 }
 
 blocks2stacks::~blocks2stacks()
@@ -51,6 +59,11 @@ void blocks2stacks::calcBlocks()
 void blocks2stacks::on_blocksSpinBox_2_valueChanged(int blocks)
 {
     calcStacks(blocks);
+    if(blocks == 0) {
+        ui->blocksSpinBox->setMinimum(0);
+    } else {
+        ui->blocksSpinBox->setMinimum(-1);
+    }
 }
 
 void blocks2stacks::on_stacksSpinBox_valueChanged(int stacks)
@@ -62,4 +75,3 @@ void blocks2stacks::on_blocksSpinBox_valueChanged(int blocks)
 {
     calcBlocks();
 }
-
