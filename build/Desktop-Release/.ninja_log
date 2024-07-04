@@ -1,0 +1,23 @@
+# ninja log v5
+580	2249	1720098295030648292	CMakeFiles/blocks2stacks.dir/main.cpp.o	9c5541f06a54d22c
+580	2190	1720098294970648321	CMakeFiles/blocks2stacks.dir/blocks2stacks_autogen/mocs_compilation.cpp.o	ec016d3bb93fece4
+119	578	1720098293353649113	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/blocks2stacks_autogen/mocs_compilation.cpp	f2bf2bfca9a02a50
+119	578	1720098293353649113	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/blocks2stacks_autogen/timestamp	f2bf2bfca9a02a50
+2408	2703	1720098295480648071	blocks2stacks	910de23f7453b0af
+580	2407	1720098295188648214	CMakeFiles/blocks2stacks.dir/blocks2stacks.cpp.o	9030fbf1b64f06f3
+119	578	1720098293353649113	blocks2stacks_autogen/mocs_compilation.cpp	f2bf2bfca9a02a50
+119	578	1720098293353649113	blocks2stacks_autogen/timestamp	f2bf2bfca9a02a50
+3	121	1720098416335588869	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/CMakeFiles/cmake.verify_globs	4f839cfc84339fce
+121	427	1720098416681588699	build.ninja	ce04cc63771c05fa
+2	115	0	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/CMakeFiles/cmake.verify_globs	4f839cfc84339fce
+117	138	1720098409930592006	blocks2stacks_autogen/timestamp	f2bf2bfca9a02a50
+117	138	1720098409930592006	blocks2stacks_autogen/mocs_compilation.cpp	f2bf2bfca9a02a50
+117	138	1720098409930592006	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/blocks2stacks_autogen/timestamp	f2bf2bfca9a02a50
+117	138	1720098409930592006	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/blocks2stacks_autogen/mocs_compilation.cpp	f2bf2bfca9a02a50
+2	167	0	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/CMakeFiles/cmake.verify_globs	4f839cfc84339fce
+170	232	1720098566363515379	blocks2stacks_autogen/timestamp	f2bf2bfca9a02a50
+170	232	1720098566363515379	blocks2stacks_autogen/mocs_compilation.cpp	f2bf2bfca9a02a50
+170	232	1720098566363515379	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/blocks2stacks_autogen/timestamp	f2bf2bfca9a02a50
+170	232	1720098566363515379	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/blocks2stacks_autogen/mocs_compilation.cpp	f2bf2bfca9a02a50
+239	4255	1720098603440497217	CMakeFiles/blocks2stacks.dir/blocks2stacks.cpp.o	9030fbf1b64f06f3
+4255	4858	1720098604034496926	blocks2stacks	910de23f7453b0af

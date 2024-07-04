@@ -1,0 +1,21 @@
+# ninja log v5
+594	2918	1720098491336552129	CMakeFiles/blocks2stacks.dir/main.cpp.o	b17af93326b80de
+593	2747	1720098491165552212	CMakeFiles/blocks2stacks.dir/blocks2stacks_autogen/mocs_compilation.cpp.o	5562a3fedc138877
+131	582	1720098572010512612	build.ninja	e72ded27290b37ef
+141	593	1720098489008553269	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/mocs_compilation.cpp	14dd453a32b06750
+141	593	1720098489008553269	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/timestamp	14dd453a32b06750
+2097	2405	1720098241972674282	blocks2stacks	6d7ef4b2b859ef8e
+101	2097	1720098241668674431	CMakeFiles/blocks2stacks.dir/blocks2stacks.cpp.o	9bae5ce02c4ece75
+141	593	1720098489008553269	blocks2stacks_autogen/mocs_compilation.cpp	14dd453a32b06750
+141	593	1720098489008553269	blocks2stacks_autogen/timestamp	14dd453a32b06750
+179	186	0	CMakeFiles/clean.additional	ef993b15a92b8f11
+3	137	1720098571660512783	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/CMakeFiles/cmake.verify_globs	77acdf72369f6eec
+187	193	0	clean	a31eedcededa8236
+137	434	1720098572010512612	build.ninja	e72ded27290b37ef
+2	114	0	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/CMakeFiles/cmake.verify_globs	77acdf72369f6eec
+116	137	1720098566363515379	blocks2stacks_autogen/timestamp	14dd453a32b06750
+116	137	1720098566363515379	blocks2stacks_autogen/mocs_compilation.cpp	14dd453a32b06750
+116	137	1720098566363515379	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/timestamp	14dd453a32b06750
+116	137	1720098566363515379	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/mocs_compilation.cpp	14dd453a32b06750
+138	2129	1720098574152511563	CMakeFiles/blocks2stacks.dir/blocks2stacks.cpp.o	9bae5ce02c4ece75
+2129	2471	1720098574484511400	blocks2stacks	6d7ef4b2b859ef8e
