@@ -34,9 +34,16 @@ void blocks2stacks::calcStacks(int blocks)
     stacks = floor(stacksDecimal);
     calcdBlocks = ((stacksDecimal-stacks)*64);
 
-    // Set values in spinboxes
+    // Set values in spinboxes and disable them to avoid infinite loops
+    ui->stacksSpinBox->blockSignals(true);
+    ui->blocksSpinBox->blockSignals(true);
+
     ui->stacksSpinBox->setValue(stacks);
     ui->blocksSpinBox->setValue(calcdBlocks);
+
+    // Re-enable spinbox
+    ui->stacksSpinBox->blockSignals(false);
+    ui->blocksSpinBox->blockSignals(false);
 }
 
 void blocks2stacks::calcBlocks()
@@ -51,27 +58,34 @@ void blocks2stacks::calcBlocks()
     // Calculate blocks
     calcdBlocks = blocks+(stacks*64);
 
-    // Set value in spinbox
+    // Set value in spinbox, disable it and re-enable it
+    ui->blocksSpinBox_2->blockSignals(true);
     ui->blocksSpinBox_2->setValue(calcdBlocks);
-}
-
-// Calculate when spinbox values change
-void blocks2stacks::on_blocksSpinBox_2_valueChanged(int blocks)
-{
-    calcStacks(blocks);
-    if(blocks == 0) {
-        ui->blocksSpinBox->setMinimum(0);
-    } else {
-        ui->blocksSpinBox->setMinimum(-1);
-    }
+    ui->blocksSpinBox_2->blockSignals(false);
 }
 
 void blocks2stacks::on_stacksSpinBox_valueChanged(int stacks)
 {
+    // calculate blocks if user interacts with stacks spin box
+    ui->stacksSpinBox->blockSignals(true);
+    ui->blocksSpinBox_2->blockSignals(true);
     calcBlocks();
+    ui->stacksSpinBox->blockSignals(false);
+    ui->blocksSpinBox_2->blockSignals(false);
 }
 
 void blocks2stacks::on_blocksSpinBox_valueChanged(int blocks)
 {
+    ui->blocksSpinBox->blockSignals(true);
+    ui->stacksSpinBox->blockSignals(true);
+    ui->blocksSpinBox_2->blockSignals(true);
     calcBlocks();
+    ui->blocksSpinBox_2->blockSignals(false);
+    ui->blocksSpinBox->blockSignals(false);
+    ui->stacksSpinBox->blockSignals(false);
+}
+
+void blocks2stacks::on_blocksSpinBox_2_valueChanged(int blocks)
+{
+    calcStacks(blocks);
 }

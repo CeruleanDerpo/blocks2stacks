@@ -1,0 +1,9 @@
+/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/CMakeFiles/blocks2stacks.dir
+/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/CMakeFiles/edit_cache.dir
+/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/CMakeFiles/rebuild_cache.dir
+/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/CMakeFiles/list_install_components.dir
+/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/CMakeFiles/install.dir
+/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/CMakeFiles/install/local.dir
+/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/CMakeFiles/install/strip.dir
+/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/CMakeFiles/blocks2stacks_autogen_timestamp_deps.dir
+/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/CMakeFiles/blocks2stacks_autogen.dir
