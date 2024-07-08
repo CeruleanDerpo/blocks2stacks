@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>place.derpy.blocks2stacks</id>
+  
+  <name>Blocks2Stacks</name>
+  <summary>Convert Minecraft blocks into stacks</summary>
+  
+  <metadata_license>MIT</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  
+  <supports>
+    <control>pointing</control>
+    <control>keyboard</control>
+    <control>touch</control>
+  </supports>
+  
+  <description>
+    <p>
+      A simple calculator that converts the total blocks into stacks and blocks, for example 1234b = 19s + 18b
+    </p>
+  </description>
+  
+  <launchable type="desktop-id">place.derpy.blocks2stacks.desktop</launchable>
+  
+  <icon type="stock">blocks2stacks</icon>
+  
+  <categories>
+    <category>Utility</category>
+    <category>Calculator</category>
+  </categories>
+  
+  <provides>
+    <binary>blocks2stacks</binary>
+  </provides>
+</component>
