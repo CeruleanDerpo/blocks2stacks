@@ -390,7 +390,8 @@
 		"/usr/lib/x86_64-linux-gnu/cmake/Qt6LinguistTools/Qt6LinguistToolsAdditionalTargetInfo.cmake",
 		"/usr/lib/x86_64-linux-gnu/cmake/Qt6LinguistTools/Qt6LinguistToolsVersionlessTargets.cmake",
 		"/usr/lib/x86_64-linux-gnu/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake",
-		"/usr/share/cmake-3.29/Modules/CMakeParseArguments.cmake"
+		"/usr/share/cmake-3.29/Modules/CMakeParseArguments.cmake",
+		"/home/derpy/Documents/Qt Apps/blocks2stacks/resources.qrc"
 	],
 	"CMAKE_SOURCE_DIR" : "/home/derpy/Documents/Qt Apps/blocks2stacks",
 	"CROSS_CONFIG" : false,

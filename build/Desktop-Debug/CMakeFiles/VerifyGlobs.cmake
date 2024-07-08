@@ -44,9 +44,11 @@ set(OLD_GLOB
   "/home/derpy/Documents/Qt Apps/blocks2stacks/blocks2stacks.cpp"
   "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/CMakeFiles/3.29.4/CompilerIdCXX/CMakeCXXCompilerId.cpp"
   "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/EWIEGA46WW/moc_blocks2stacks.cpp"
+  "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/EWIEGA46WW/qrc_resources.cpp"
   "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/mocs_compilation.cpp"
   "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/CMakeFiles/3.29.4/CompilerIdCXX/CMakeCXXCompilerId.cpp"
   "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/blocks2stacks_autogen/EWIEGA46WW/moc_blocks2stacks.cpp"
+  "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/blocks2stacks_autogen/EWIEGA46WW/qrc_resources.cpp"
   "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/blocks2stacks_autogen/mocs_compilation.cpp"
   "/home/derpy/Documents/Qt Apps/blocks2stacks/main.cpp"
   )
@@ -153,6 +155,8 @@ endif()
 # _directory_contents at /usr/lib/x86_64-linux-gnu/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake:55 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "/home/derpy/Documents/Qt Apps/blocks2stacks/*.qrc")
 set(OLD_GLOB
+  "/home/derpy/Documents/Qt Apps/blocks2stacks/icon.qrc"
+  "/home/derpy/Documents/Qt Apps/blocks2stacks/resources.qrc"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")

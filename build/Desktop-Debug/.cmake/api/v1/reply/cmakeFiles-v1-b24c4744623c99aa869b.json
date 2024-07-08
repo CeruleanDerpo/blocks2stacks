@@ -6,11 +6,11 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/Desktop-Release/.qtc/package-manager/auto-setup.cmake"
+			"path" : "build/Desktop-Debug/.qtc/package-manager/auto-setup.cmake"
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/Desktop-Release/CMakeFiles/3.29.4/CMakeSystem.cmake"
+			"path" : "build/Desktop-Debug/CMakeFiles/3.29.4/CMakeSystem.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -24,7 +24,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/Desktop-Release/CMakeFiles/3.29.4/CMakeCXXCompiler.cmake"
+			"path" : "build/Desktop-Debug/CMakeFiles/3.29.4/CMakeCXXCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -1638,12 +1638,15 @@
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "/usr/share/cmake-3.29/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"path" : "resources.qrc"
 		}
 	],
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release",
+		"build" : "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug",
 		"source" : "/home/derpy/Documents/Qt Apps/blocks2stacks"
 	},
 	"version" : 

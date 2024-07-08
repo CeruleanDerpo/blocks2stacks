@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/blocks2stacks_autogen",
+	"CMAKE_BINARY_DIR" : "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/derpy/Documents/Qt Apps/blocks2stacks",
+	"CMAKE_SOURCE_DIR" : "/home/derpy/Documents/Qt Apps/blocks2stacks",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/blocks2stacks_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/CMakeFiles/blocks2stacks_autogen.dir/AutoRcc_icon_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "icon" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_icon.cpp",
+	"RCC_EXECUTABLE" : "/usr/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/CMakeFiles/blocks2stacks_autogen.dir/AutoRcc_icon_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/derpy/Documents/Qt Apps/blocks2stacks/icon.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
