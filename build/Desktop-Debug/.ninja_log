@@ -1,8 +1,11 @@
 # ninja log v5
+293	308	1721557295829256014	blocks2stacks_autogen/timestamp	14dd453a32b06750
+2	291	0	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/CMakeFiles/cmake.verify_globs	77acdf72369f6eec
+226	234	0	CMakeFiles/clean.additional	ef993b15a92b8f11
 234	238	0	clean	a31eedcededa8236
 632	651	1720261369924210557	blocks2stacks_autogen/EWIEGA46WW/qrc_resources.cpp	70a9239f47bd9605
 295	2763	1720261561758372012	CMakeFiles/blocks2stacks.dir/main.cpp.o	b17af93326b80de
-235	766	1721557912251781831	build.ninja	e72ded27290b37ef
+235	766	1721558460331691037	build.ninja	e72ded27290b37ef
 651	2693	1720261371966211990	CMakeFiles/blocks2stacks.dir/blocks2stacks_autogen/mocs_compilation.cpp.o	5562a3fedc138877
 651	687	1720261369960210582	CMakeFiles/blocks2stacks.dir/blocks2stacks_autogen/EWIEGA46WW/qrc_resources.cpp.o	5cd161d4b671d45e
 293	308	1721557295829256014	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/mocs_compilation.cpp	14dd453a32b06750
@@ -11,6 +14,10 @@
 2502	2924	1721557300530267249	blocks2stacks	b7b4155e92409f18
 293	308	1721557295829256014	blocks2stacks_autogen/mocs_compilation.cpp	14dd453a32b06750
 632	651	1720261369924210557	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/EWIEGA46WW/qrc_resources.cpp	70a9239f47bd9605
-293	308	1721557295829256014	blocks2stacks_autogen/timestamp	14dd453a32b06750
-2	291	0	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/CMakeFiles/cmake.verify_globs	77acdf72369f6eec
-226	234	0	CMakeFiles/clean.additional	ef993b15a92b8f11
+15	519	0	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/CMakeFiles/cmake.verify_globs	77acdf72369f6eec
+521	559	1721558456757685108	blocks2stacks_autogen/timestamp	14dd453a32b06750
+521	559	1721558456757685108	blocks2stacks_autogen/mocs_compilation.cpp	14dd453a32b06750
+521	559	1721558456757685108	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/timestamp	14dd453a32b06750
+521	559	1721558456757685108	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/mocs_compilation.cpp	14dd453a32b06750
+561	5351	1721558749441170664	CMakeFiles/blocks2stacks.dir/blocks2stacks.cpp.o	9bae5ce02c4ece75
+5351	6289	1721558750376172216	blocks2stacks	b7b4155e92409f18
