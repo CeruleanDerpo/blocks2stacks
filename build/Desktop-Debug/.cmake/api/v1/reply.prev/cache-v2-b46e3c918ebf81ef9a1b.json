@@ -1047,7 +1047,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "blocks2stacks"
+			"value" : "place.derpy.blocks2stacks"
 		},
 		{
 			"name" : "CMAKE_PROJECT_VERSION",
@@ -6884,6 +6884,42 @@
 			],
 			"type" : "FILEPATH",
 			"value" : "/usr/lib/x86_64-linux-gnu/libxkbcommon.so"
+		},
+		{
+			"name" : "place.derpy.blocks2stacks_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug"
+		},
+		{
+			"name" : "place.derpy.blocks2stacks_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "place.derpy.blocks2stacks_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/derpy/Documents/Qt Apps/blocks2stacks"
 		},
 		{
 			"name" : "prefix_result",
