@@ -94,7 +94,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-  file(INSTALL DESTINATION "/applications" TYPE FILE FILES "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/place.derpy.blocks2stacks.desktop")
+  file(INSTALL DESTINATION "/applications" TYPE FILE FILES "/home/derpy/Documents/Qt Apps/blocks2stacks/resources/place.derpy.blocks2stacks.desktop")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -106,7 +106,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-  file(INSTALL DESTINATION "/metainfo" TYPE FILE FILES "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/place.derpy.blocks2stacks.metainfo.xml")
+  file(INSTALL DESTINATION "/metainfo" TYPE FILE FILES "/home/derpy/Documents/Qt Apps/blocks2stacks/resources/place.derpy.blocks2stacks.metainfo.xml")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
