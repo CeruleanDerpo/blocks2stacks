@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 
-project(blocks2stacks VERSION 0.1 LANGUAGES CXX)
+project(place.derpy.blocks2stacks VERSION 0.1 LANGUAGES CXX)
 
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
 
@@ -66,6 +66,12 @@ set_target_properties(blocks2stacks PROPERTIES
 install(TARGETS blocks2stacks
     BUNDLE DESTINATION .
     LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR})
+
+# Install the icons and desktop file
+install(FILES "${CMAKE_SOURCE_DIR}/resources/${PROJECT_NAME}.svg" "${CMAKE_SOURCE_DIR}/resources/${PROJECT_NAME}.svg" DESTINATION "${CMAKE_INSTALL_DATADIR}/icons/hicolor/scalable/apps")
+install(FILES "${CMAKE_SOURCE_DIR}/resources/${PROJECT_NAME}-symbolic.svg" DESTINATION "${CMAKE_INSTALL_DATADIR}/icons/hicolor/symbolic/apps")
+install(FILES "${CMAKE_CURRENT_BINARY_DIR}/${PROJECT_NAME}.desktop" DESTINATION "${CMAKE_INSTALL_DATADIR}/applications")
+install(FILES "${CMAKE_CURRENT_BINARY_DIR}/${PROJECT_NAME}.metainfo.xml" DESTINATION "${CMAKE_INSTALL_DATADIR}/metainfo")
 
 if(QT_VERSION_MAJOR EQUAL 6)
     qt_finalize_executable(blocks2stacks)

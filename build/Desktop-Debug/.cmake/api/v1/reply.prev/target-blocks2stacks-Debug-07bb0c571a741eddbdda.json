@@ -71,13 +71,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 64,
+				"line" : 66,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 54,
+				"line" : 56,
 				"parent" : 0
 			},
 			{
@@ -285,7 +285,8 @@
 			[
 				0,
 				1,
-				2
+				2,
+				9
 			]
 		}
 	],
@@ -369,7 +370,8 @@
 			[
 				0,
 				1,
-				2
+				2,
+				9
 			]
 		},
 		{
@@ -377,7 +379,7 @@
 			"sourceIndexes" : 
 			[
 				3,
-				6
+				7
 			]
 		},
 		{
@@ -386,14 +388,16 @@
 			[
 				4,
 				5,
-				7
+				6,
+				8
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				8
+				10,
+				11
 			]
 		}
 	],
@@ -434,6 +438,11 @@
 			"sourceGroupIndex" : 2
 		},
 		{
+			"backtrace" : 4,
+			"path" : "resources.qrc",
+			"sourceGroupIndex" : 2
+		},
+		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop-Debug/blocks2stacks_autogen/include/ui_blocks2stacks.h",
@@ -447,8 +456,21 @@
 		},
 		{
 			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop-Debug/blocks2stacks_autogen/EWIEGA46WW/qrc_resources.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop-Debug/blocks2stacks_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop-Debug/blocks2stacks_autogen/EWIEGA46WW/qrc_resources.cpp.rule",
 			"sourceGroupIndex" : 3
 		}
 	],

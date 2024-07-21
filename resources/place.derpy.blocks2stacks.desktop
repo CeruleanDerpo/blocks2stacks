@@ -2,7 +2,7 @@
 Categories=Utility;
 Comment[en_US]=
 Comment=
-Exec=blocks2stacks
+Exec=place.derpy.blocks2stacks
 GenericName[en_US]=
 GenericName=
 Icon=xcalc

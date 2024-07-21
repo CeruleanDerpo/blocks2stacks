@@ -1,26 +1,23 @@
 # ninja log v5
-230	631	1720261369900210540	blocks2stacks_autogen/timestamp	14dd453a32b06750
-3	234	1720261375525214489	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/CMakeFiles/cmake.verify_globs	77acdf72369f6eec
-234	238	0	clean	a31eedcededa8236
-651	2728	1720261372001212015	CMakeFiles/blocks2stacks.dir/main.cpp.o	b17af93326b80de
-632	651	1720261369924210557	blocks2stacks_autogen/EWIEGA46WW/qrc_resources.cpp	70a9239f47bd9605
+235	766	1721557297499260005	build.ninja	e72ded27290b37ef
 651	2693	1720261371966211990	CMakeFiles/blocks2stacks.dir/blocks2stacks_autogen/mocs_compilation.cpp.o	5562a3fedc138877
-228	728	1720261376172214943	build.ninja	e72ded27290b37ef
 651	687	1720261369960210582	CMakeFiles/blocks2stacks.dir/blocks2stacks_autogen/EWIEGA46WW/qrc_resources.cpp.o	5cd161d4b671d45e
-230	631	1720261369900210540	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/mocs_compilation.cpp	14dd453a32b06750
-230	631	1720261369900210540	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/timestamp	14dd453a32b06750
-2831	3203	1720261372472212346	blocks2stacks	b7b4155e92409f18
-651	2831	1720261372104212087	CMakeFiles/blocks2stacks.dir/blocks2stacks.cpp.o	9bae5ce02c4ece75
-230	631	1720261369900210540	blocks2stacks_autogen/mocs_compilation.cpp	14dd453a32b06750
+316	362	1721556872241414587	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/mocs_compilation.cpp	14dd453a32b06750
+316	362	1721556872241414587	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/timestamp	14dd453a32b06750
+364	2740	1721556895658450571	CMakeFiles/blocks2stacks.dir/blocks2stacks.cpp.o	9bae5ce02c4ece75
+2740	3241	1721556896154451333	blocks2stacks	b7b4155e92409f18
+316	362	1721556872241414587	blocks2stacks_autogen/mocs_compilation.cpp	14dd453a32b06750
 632	651	1720261369924210557	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/EWIEGA46WW/qrc_resources.cpp	70a9239f47bd9605
 226	234	0	CMakeFiles/clean.additional	ef993b15a92b8f11
-235	766	1720261376172214943	build.ninja	e72ded27290b37ef
-2	233	0	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/CMakeFiles/cmake.verify_globs	77acdf72369f6eec
-12	274	0	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/CMakeFiles/cmake.verify_globs	77acdf72369f6eec
-277	294	1720261435548262412	blocks2stacks_autogen/timestamp	14dd453a32b06750
-277	294	1720261435548262412	blocks2stacks_autogen/mocs_compilation.cpp	14dd453a32b06750
-277	294	1720261435548262412	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/timestamp	14dd453a32b06750
-277	294	1720261435548262412	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/mocs_compilation.cpp	14dd453a32b06750
+10	307	0	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/CMakeFiles/cmake.verify_globs	77acdf72369f6eec
+316	362	1721556872241414587	blocks2stacks_autogen/timestamp	14dd453a32b06750
+234	238	0	clean	a31eedcededa8236
 295	2763	1720261561758372012	CMakeFiles/blocks2stacks.dir/main.cpp.o	b17af93326b80de
-295	2871	1720261561866372113	CMakeFiles/blocks2stacks.dir/blocks2stacks.cpp.o	9bae5ce02c4ece75
-2871	3447	1720261562438372644	blocks2stacks	b7b4155e92409f18
+632	651	1720261369924210557	blocks2stacks_autogen/EWIEGA46WW/qrc_resources.cpp	70a9239f47bd9605
+2	291	0	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/CMakeFiles/cmake.verify_globs	77acdf72369f6eec
+293	308	1721557295829256014	blocks2stacks_autogen/timestamp	14dd453a32b06750
+293	308	1721557295829256014	blocks2stacks_autogen/mocs_compilation.cpp	14dd453a32b06750
+293	308	1721557295829256014	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/timestamp	14dd453a32b06750
+293	308	1721557295829256014	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/mocs_compilation.cpp	14dd453a32b06750
+309	2502	1721557300112266250	CMakeFiles/blocks2stacks.dir/blocks2stacks.cpp.o	9bae5ce02c4ece75
+2502	2924	1721557300530267249	blocks2stacks	b7b4155e92409f18
