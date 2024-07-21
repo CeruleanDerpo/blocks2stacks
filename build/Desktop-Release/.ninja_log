@@ -1,16 +1,18 @@
 # ninja log v5
-316	434	1720261171889030510	CMakeFiles/blocks2stacks.dir/blocks2stacks_autogen/EWIEGA46WW/qrc_resources.cpp.o	79c068bb00334c8d
-2	231	1720261185788068268	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/CMakeFiles/cmake.verify_globs	4f839cfc84339fce
-282	297	1720261167682019082	blocks2stacks_autogen/timestamp	f2bf2bfca9a02a50
-282	297	1720261167682019082	blocks2stacks_autogen/mocs_compilation.cpp	f2bf2bfca9a02a50
-315	2206	1720261173660035321	CMakeFiles/blocks2stacks.dir/blocks2stacks.cpp.o	9030fbf1b64f06f3
-2206	2763	1720261174215036829	blocks2stacks	634b49f8fd6bb525
-282	297	1720261167682019082	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/blocks2stacks_autogen/timestamp	f2bf2bfca9a02a50
-282	297	1720261167682019082	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/blocks2stacks_autogen/mocs_compilation.cpp	f2bf2bfca9a02a50
-121	427	1720261186431070015	build.ninja	ce04cc63771c05fa
-580	2190	1720098294970648321	CMakeFiles/blocks2stacks.dir/blocks2stacks_autogen/mocs_compilation.cpp.o	ec016d3bb93fece4
-299	315	1720261171768030182	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/blocks2stacks_autogen/EWIEGA46WW/qrc_resources.cpp	f9fced57ddad4dd8
-299	315	1720261171768030182	blocks2stacks_autogen/EWIEGA46WW/qrc_resources.cpp	f9fced57ddad4dd8
-315	2074	1720261173528034963	CMakeFiles/blocks2stacks.dir/main.cpp.o	9c5541f06a54d22c
-231	729	1720261186431070015	build.ninja	ce04cc63771c05fa
-2	225	0	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/CMakeFiles/cmake.verify_globs	4f839cfc84339fce
+1424	5840	1721558817137282970	CMakeFiles/blocks2stacks.dir/main.cpp.o	9c5541f06a54d22c
+1385	1422	1721558812715275634	blocks2stacks_autogen/EWIEGA46WW/qrc_resources.cpp	f9fced57ddad4dd8
+468	480	0	clean	a31eedcededa8236
+1426	1548	1721558812844275848	CMakeFiles/blocks2stacks.dir/blocks2stacks_autogen/EWIEGA46WW/qrc_resources.cpp.o	79c068bb00334c8d
+378	1385	1721558812668275556	blocks2stacks_autogen/timestamp	f2bf2bfca9a02a50
+378	1385	1721558812668275556	blocks2stacks_autogen/mocs_compilation.cpp	f2bf2bfca9a02a50
+1425	5993	1721558817289283222	CMakeFiles/blocks2stacks.dir/blocks2stacks.cpp.o	9030fbf1b64f06f3
+5993	6750	1721558818045284476	blocks2stacks	634b49f8fd6bb525
+378	1385	1721558812668275556	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/blocks2stacks_autogen/timestamp	f2bf2bfca9a02a50
+451	468	0	CMakeFiles/clean.additional	b7f779938bef587c
+378	1385	1721558812668275556	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/blocks2stacks_autogen/mocs_compilation.cpp	f2bf2bfca9a02a50
+497	1269	1721558823645293767	build.ninja	ce04cc63771c05fa
+1422	5801	1721558817099282907	CMakeFiles/blocks2stacks.dir/blocks2stacks_autogen/mocs_compilation.cpp.o	ec016d3bb93fece4
+7	583	1721558822620292067	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/CMakeFiles/cmake.verify_globs	4f839cfc84339fce
+1385	1422	1721558812715275634	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/blocks2stacks_autogen/EWIEGA46WW/qrc_resources.cpp	f9fced57ddad4dd8
+584	1350	1721558823645293767	build.ninja	ce04cc63771c05fa
+2	435	0	/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/CMakeFiles/cmake.verify_globs	4f839cfc84339fce

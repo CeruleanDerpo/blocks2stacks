@@ -60,17 +60,14 @@ endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/icons/hicolor/scalable/apps/place.derpy.blocks2stacks.svg;/icons/hicolor/scalable/apps/place.derpy.blocks2stacks.svg")
+   "/icons/hicolor/scalable/apps/place.derpy.blocks2stacks.svg")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-  file(INSTALL DESTINATION "/icons/hicolor/scalable/apps" TYPE FILE FILES
-    "/home/derpy/Documents/Qt Apps/blocks2stacks/resources/place.derpy.blocks2stacks.svg"
-    "/home/derpy/Documents/Qt Apps/blocks2stacks/resources/place.derpy.blocks2stacks.svg"
-    )
+  file(INSTALL DESTINATION "/icons/hicolor/scalable/apps" TYPE FILE FILES "/home/derpy/Documents/Qt Apps/blocks2stacks/resources/place.derpy.blocks2stacks.svg")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)

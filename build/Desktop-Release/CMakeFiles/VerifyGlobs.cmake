@@ -44,6 +44,7 @@ set(OLD_GLOB
   "/home/derpy/Documents/Qt Apps/blocks2stacks/blocks2stacks.cpp"
   "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/CMakeFiles/3.29.4/CompilerIdCXX/CMakeCXXCompilerId.cpp"
   "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/EWIEGA46WW/moc_blocks2stacks.cpp"
+  "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/EWIEGA46WW/qrc_resources.cpp"
   "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Debug/blocks2stacks_autogen/mocs_compilation.cpp"
   "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/CMakeFiles/3.29.4/CompilerIdCXX/CMakeCXXCompilerId.cpp"
   "/home/derpy/Documents/Qt Apps/blocks2stacks/build/Desktop-Release/blocks2stacks_autogen/EWIEGA46WW/moc_blocks2stacks.cpp"

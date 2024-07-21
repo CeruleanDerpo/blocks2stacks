@@ -66,7 +66,6 @@
 			"destination" : "/icons/hicolor/scalable/apps",
 			"paths" : 
 			[
-				"resources/place.derpy.blocks2stacks.svg",
 				"resources/place.derpy.blocks2stacks.svg"
 			],
 			"type" : "file"
@@ -87,7 +86,7 @@
 			"destination" : "/applications",
 			"paths" : 
 			[
-				"build/Desktop-Debug/place.derpy.blocks2stacks.desktop"
+				"resources/place.derpy.blocks2stacks.desktop"
 			],
 			"type" : "file"
 		},
@@ -97,7 +96,7 @@
 			"destination" : "/metainfo",
 			"paths" : 
 			[
-				"build/Desktop-Debug/place.derpy.blocks2stacks.metainfo.xml"
+				"resources/place.derpy.blocks2stacks.metainfo.xml"
 			],
 			"type" : "file"
 		}
