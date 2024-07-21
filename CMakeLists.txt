@@ -67,6 +67,9 @@ install(TARGETS blocks2stacks
     BUNDLE DESTINATION .
     LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR})
 
+# Fix empty CMAKE_INSTALL_DATADIR
+set(CMAKE_INSTALL_DATADIR "share")
+
 # Install the icons and desktop file
 install(FILES "${CMAKE_SOURCE_DIR}/resources/${PROJECT_NAME}.svg" DESTINATION "${CMAKE_INSTALL_DATADIR}/icons/hicolor/scalable/apps")
 install(FILES "${CMAKE_SOURCE_DIR}/resources/${PROJECT_NAME}-symbolic.svg" DESTINATION "${CMAKE_INSTALL_DATADIR}/icons/hicolor/symbolic/apps")

@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Release-e36dfa8837033cc189c7.json",
+					"jsonFile" : "directory-.-Release-57b5f0b6926a6a79ab0f.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -30,7 +30,7 @@
 					[
 						0
 					],
-					"name" : "blocks2stacks",
+					"name" : "place.derpy.blocks2stacks",
 					"targetIndexes" : 
 					[
 						0,
